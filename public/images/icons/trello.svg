@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Trello</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social-Icons---Isolated" transform="translate(-52.000000, -1399.000000)" fill="#007AC2">
+            <path d="M58,1408 L58,1435 C58,1436.6575 59.3425,1438 61,1438 L70,1438 C71.6575,1438 73,1436.6575 73,1435 L73,1408 C73,1406.3425 71.6575,1405 70,1405 L61,1405 C59.3425,1405 58,1406.3425 58,1408 L58,1408 Z M79,1408 L79,1423 C79,1424.6575 80.3425,1426 82,1426 L91,1426 C92.6575,1426 94,1424.6575 94,1423 L94,1408 C94,1406.3425 92.6575,1405 91,1405 L82,1405 C80.3425,1405 79,1406.3425 79,1408 L79,1408 Z M58,1399 C54.6865,1399 52,1401.688 52,1405 L52,1441 C52,1444.3135 54.688,1447 58,1447 L94,1447 C97.3135,1447 100,1444.312 100,1441 L100,1405 C100,1401.6865 97.312,1399 94,1399 L58,1399 Z" id="Trello"></path>
+        </g>
+    </g>
+</svg>
